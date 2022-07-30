@@ -1,6 +1,6 @@
 # :zap: Unstoppable Spam Bot :zap:
 
-The only way to stop this, in my experience, is to physically block the number.
+The only way to stop this, in my experience, is to physically block the number. Which is ineffective because the scripts can utilize infinite numbers.
 
 # :floppy_disk: Installation
 ```
