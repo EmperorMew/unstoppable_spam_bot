@@ -12,7 +12,7 @@ pip install time
 
 
 
-To Make API request, you need to create a RestClient and prvide it with authenticaation credentials which can be found at [Plivo](https://manage.plivo.com/dashboard). 
+To Make API request, you need to create a RestClient and prvide it with authentication credentials (which can be found at Plivo https://manage.plivo.com/dashboard). 
 
 Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to your account by clicking the number sign in the menu on the left. These numbers cost $0.50 per month and are unrestricted. They will simultaneously function for both the Call and Text scripts.
 
