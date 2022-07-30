@@ -1,8 +1,8 @@
-# :octocat: Unstoppable Spam Bot :octocat:
+# :zap: Unstoppable Spam Bot :zap:
 
 The only way to stop this, in my experience, is to physically block the number.
 
-## :floppy_disk: Installation
+# :floppy_disk: Installation
 ```
 pip install plivo
 pip install time
@@ -17,7 +17,7 @@ To Make API request, you need to create a RestClient and prvide it with authenti
 Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to your account by clicking the number sign in the menu on the left. These numbers cost $0.50 per month and are unrestricted. They will simultaneously function for both the Call and Text scripts.
 
 
-## Usage
+# Usage
 
 :eye_speech_bubble: I made this a simple as possible:
 * :key: Add your keys to the config.py file in the proper format.
@@ -36,5 +36,5 @@ Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to yo
 * :memo: Enter a message this will send one word per message and loop back.
 * :timer_clock: Enter a rest time between sms messages(in seconds) you can set this to whatever you want.
 
-## :person_with_probing_cane: DISCLAIMER
+# :person_with_probing_cane: DISCLAIMER
 Developer shall not be held liable for any misuse or damage caused by unstoppable spam bot or any other component of this repository. This tool is for educational use only.
