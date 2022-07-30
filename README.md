@@ -19,7 +19,7 @@ Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to yo
 
 # Usage
 
-:eye_speech_bubble: I made this a simple as possible:
+:eye_speech_bubble: I made this as simple as possible:
 * :key: Add your keys to the config.py file in the proper format.
 * :phone: Add the phone numbers you purchased to the callers var in the .py files. 
 * :runner: Run script.
