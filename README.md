@@ -17,7 +17,7 @@ To Make API request, you need to create a RestClient and prvide it with authenti
 Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to your account by clicking the number sign in the menu on the left. These numbers cost $0.50 per month and are unrestricted. They will simultaneously function for both the Call and Text scripts.
 
 
-# Usage
+# :clapper: Usage
 
 :eye_speech_bubble: I made this as simple as possible:
 * :key: Add your keys to the config.py file in the proper format.
