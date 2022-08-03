@@ -26,7 +26,7 @@ Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to yo
 
 #### :bomb: phone_call_spam.py required terminal inputs once file is run.
 
-* :dart: Enter victim's number be sure to add the country code
+* :dart: Enter victim's number be sure to add the country code.
 * :timer_clock: Enter a rest time between calls(in seconds) this should be at least 25 seconds for the call script.
 
 
