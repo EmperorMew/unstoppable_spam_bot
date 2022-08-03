@@ -1,4 +1,4 @@
-# :zap: Unstoppable Spam Bot :zap:
+# :zap: Unstoppable Spam Bot
 
 The only way to stop this, in my experience, is to physically block the number. Which is ineffective because the scripts can utilize infinite numbers.
 
