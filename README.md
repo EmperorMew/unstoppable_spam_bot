@@ -37,4 +37,4 @@ Create an account, obtain your `API_Key` and `API_SECRET`, and add numbers to yo
 * :timer_clock: Enter a rest time between sms messages(in seconds) you can set this to whatever you want.
 
 # :person_with_probing_cane: DISCLAIMER
-Developer shall not be held liable for any misuse or damage caused by unstoppable spam bot or any other component of this repository. This tool is for educational use only.
+Developer shall not be held liable for any misuse or damage caused by unstoppable_spam_bot or any other component of this repository. This tool is for educational use only.
